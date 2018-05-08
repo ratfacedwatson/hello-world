@@ -1,2 +1,2 @@
 # hello-world
-dummy training thing
+It's not easy going through life with a surname like 'Git'...
